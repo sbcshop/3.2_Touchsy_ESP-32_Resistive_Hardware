@@ -1,6 +1,6 @@
 # 3.2_Touchsy_ESP-32_Resistive_Hardware
 Touchsy ESP-32 Resistive - the perfect display solution for users who prefer ESP-32 over Raspberry Pi Pico W. 
-In this github repo you will find hardware files for 3.2" Touchsy ESP-32 Capacitive.
+In this github repo you will find hardware files for 3.2" Touchsy ESP-32 Resistive.
 
 Standard 3.2" LCD touch panels with capacitive and resistive touch choices are available. Also, this has several Hardware Compatibility choices to accommodate the whole Hardware Community. 
 <img src = "https://cdn.shopify.com/s/files/1/1217/2104/files/Touchsy.png?v=1676717838"/>
